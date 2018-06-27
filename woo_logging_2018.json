@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89837,
+    "in_address": "1CdfgUdGMxXVqayDheGp4uRRafboSASPEa",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "67f05b07f2db3812aef0942f73d544c0089a203f142f8f837e2e8e84d56fc47e",
+    "created_at": "2018-06-27T16:05:14.000+08:00"
+  },
+  {
     "type": "Payment",
     "title": "換出好物： <a>XS809W航拍無人機。四軸飛行器。遙控飛機</a>",
     "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
