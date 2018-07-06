@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89800,
+    "in_address": "1MbtXA4awgPbJ3n85QLCxmX3V816sjnJWY",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "2a4b3b1df6c292c5f39caf1e4800cbc980ad626660741ef72112079e09efff7a",
+    "created_at": "2018-07-06T20:42:31.000+08:00"
+  },
+  {
     "type": "Prepay",
     "title": "換入好物：<a>Polaroid close up 636 拍立得相機📷</a>",
     "out_address": "16rHqPiKfdMUQowqxyktUNChZDNDsUoHXY",
