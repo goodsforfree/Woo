@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89799,
+    "in_address": "1Dra6K7HCnHxCbLoH6oaTrPFtUM9R5HKeo",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "1d6d8851c70176baecbbf282e29bea25a5b58dbca93a9c10b059a5ce7660c189",
+    "created_at": "2018-07-16T23:57:25.000+08:00"
+  },
+  {
     "type": "Prepay",
     "title": "換入好物：<a>Tomica  DM-10 迪士尼系列</a>",
     "out_address": "1Mog1JJVsj5d1b9vhy3r3eTrPZJbLujPTd",
