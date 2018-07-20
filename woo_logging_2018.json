@@ -1,5 +1,33 @@
 [
   {
+    "type": "Payment",
+    "title": "換出好物： <a>Tomica 台灣警車</a>",
+    "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "out_amount": 4000,
+    "out_balance": 20000,
+    "in_address": "1227h1bURW4eQKzPQJNRFFzWKvmaUAdgkW",
+    "in_amount": 4000,
+    "in_balance": 8001,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "55e4aac79787ab3d419b6662145bce3ca1fe60571997f59214430c187a330cd3",
+    "created_at": "2018-07-20T23:29:36.000+08:00"
+  },
+  {
+    "type": "Payment",
+    "title": "換出好物： <a>Tomica  DM-10 迪士尼系列</a>",
+    "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "out_amount": 4000,
+    "out_balance": 24000,
+    "in_address": "1227h1bURW4eQKzPQJNRFFzWKvmaUAdgkW",
+    "in_amount": 4000,
+    "in_balance": 4001,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "ab6db402ceead1beab1296bfd2257eb8517467ae409397099f6483da1cc09af9",
+    "created_at": "2018-07-20T23:29:05.000+08:00"
+  },
+  {
     "type": "Reward",
     "title": "註冊成功",
     "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
