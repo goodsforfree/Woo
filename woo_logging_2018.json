@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89796,
+    "in_address": "1MXYyygHA5GNsKvBJsnFg3K3P7texXz4eA",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "7d01b41f9cb8d013f47838ec3d021d4d87fcaaf82ec396f35786a491ccbc353a",
+    "created_at": "2018-07-22T15:14:54.000+08:00"
+  },
+  {
     "type": "Payment",
     "title": "換出好物： <a>Tomica 台灣警車</a>",
     "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
