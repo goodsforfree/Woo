@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89794,
+    "in_address": "1Q5VWNgxqAGfN6gUrA3ZM8ZFBfkMoYN9Ju",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "872873ed2531d68661653a807b00464ac91fb464404132461e5bcd8b38b8090b",
+    "created_at": "2018-07-30T14:54:53.000+08:00"
+  },
+  {
     "type": "Refound",
     "title": "取消交換好物：<a>Stanley 酒罐</a>",
     "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
