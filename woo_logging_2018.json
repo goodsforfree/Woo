@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89788,
+    "in_address": "1PK6gUm8ASQ4WV5WsjUMuLDGk5diJ5J3zN",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "7f5f46f4432ce7a224ea598bfc9c59a27eba175f9478c6526728b2b770671a75",
+    "created_at": "2018-11-15T18:11:06.000+08:00"
+  },
+  {
     "type": "Refound",
     "title": "取消交換好物：<a>藍芽英文小鍵盤</a>",
     "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
