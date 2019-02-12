@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89758,
+    "in_address": "1ArBUtpetSTjY2UJW4H67DMvrEDWWZVCrp",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "436e059285baf8d641c7db52f4a9e986dcf6f5d077a6aecba534c24efb554853",
+    "created_at": "2019-02-12T09:28:56.000+08:00"
+  },
+  {
     "type": "Transfer",
     "title": "轉帳",
     "out_address": "1FwxuzpgbaR7mxEZzKLBqFBMsCK3Z45ZyP",
