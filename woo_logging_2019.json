@@ -1,6 +1,34 @@
 [
   {
     "type": "Prepay",
+    "title": "換入好物：<a>Honeywell雙頭循環扇</a>",
+    "out_address": "1KUtZYufn6FuV6UJxmZ74U7vDGMwVMPJ3E",
+    "out_amount": 1,
+    "out_balance": 0,
+    "in_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "in_amount": 1,
+    "in_balance": 31006,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "b7316c82cd05ba72649531d9d6bd5ff3843e566434c1384830f5f5fd7974a275",
+    "created_at": "2019-02-16T11:54:05.000+08:00"
+  },
+  {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89744,
+    "in_address": "1KUtZYufn6FuV6UJxmZ74U7vDGMwVMPJ3E",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "0552cea869d1687f9a61f00a404c1e53839835e3a5005456c620fea7b1f90d7f",
+    "created_at": "2019-02-16T11:51:27.000+08:00"
+  },
+  {
+    "type": "Prepay",
     "title": "換入好物：<a>四格鐵櫃</a>",
     "out_address": "1PVTGB9GuPkgtmCvMvvf1bWeP91uw9AHg3",
     "out_amount": 1,
