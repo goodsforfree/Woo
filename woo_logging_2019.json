@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89743,
+    "in_address": "1LEzDPqbUTvEpsMSh7aRs26xDPBnZNpL1E",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "e3774e4d027d75d502ca2ac0897624df2c336a24258a4fcd2cecc65f129e9b9b",
+    "created_at": "2019-02-17T18:52:24.000+08:00"
+  },
+  {
     "type": "Prepay",
     "title": "換入好物：<a>Honeywell雙頭循環扇</a>",
     "out_address": "1KUtZYufn6FuV6UJxmZ74U7vDGMwVMPJ3E",
