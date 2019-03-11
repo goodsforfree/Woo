@@ -1,5 +1,47 @@
 [
   {
+    "type": "Refound",
+    "title": "取消交換好物：<a>Hp多功能事務機</a>",
+    "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "out_amount": 1,
+    "out_balance": 11001,
+    "in_address": "13doJ1AQq1f5vSu9efHTd44SF8n6pKXcsH",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "2dd428e9e1df92bf3152ca3126739e994d542e0ae5057a804cd701db5649808a",
+    "created_at": "2019-03-10T16:44:54.000+08:00"
+  },
+  {
+    "type": "Prepay",
+    "title": "換入好物：<a>Hp多功能事務機</a>",
+    "out_address": "13doJ1AQq1f5vSu9efHTd44SF8n6pKXcsH",
+    "out_amount": 1,
+    "out_balance": 0,
+    "in_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "in_amount": 1,
+    "in_balance": 11002,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "5cddb1e5f7ce5f0c3ab3cdc62c1af3bccd56b75887e3dc72089aab67723e72b6",
+    "created_at": "2019-03-10T15:42:32.000+08:00"
+  },
+  {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89721,
+    "in_address": "13doJ1AQq1f5vSu9efHTd44SF8n6pKXcsH",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "2fc6f9df1f556c066e2b9c26213d88d2398204bdb7970642b688046bc140f097",
+    "created_at": "2019-03-10T13:06:31.000+08:00"
+  },
+  {
     "type": "Reward",
     "title": "註冊成功",
     "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
