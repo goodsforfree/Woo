@@ -1,5 +1,33 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89610,
+    "in_address": "1AKuqpz3Mm9wrTYRFLCmbiDYhWiMPGzWMy",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "86bf010465edc3e0c74b5a3f3426b4fc853e88acec37b1a8890124c98d6e0c4e",
+    "created_at": "2019-04-14T22:17:23.000+08:00"
+  },
+  {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89611,
+    "in_address": "1GHSiw4brYGEyVmXK7ZoFG6GkEKr43wXmr",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "33e5c8db59e364571f5cbe754b1a6f559f36c98f92ea018e01de6e97853c57e5",
+    "created_at": "2019-04-14T15:46:34.000+08:00"
+  },
+  {
     "type": "Refound",
     "title": "取消交換好物：<a>瀝水籃可伸縮</a>",
     "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
