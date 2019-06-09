@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89521,
+    "in_address": "1KmGuKwoTJ1PCAFzPaYD2bVRdBJn3hg5Tv",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "7d7656e5433902a586004d4d7c1f7c8e4381527dd49c8a1d05656500d332f593",
+    "created_at": "2019-06-09T09:45:25.000+08:00"
+  },
+  {
     "type": "Publish",
     "title": "生產沃力",
     "out_address": "-",
