@@ -1,5 +1,33 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89515,
+    "in_address": "12Br7h2RbRATn2R5h1c8s8UdC3AJnVVJZo",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "d35f65b878f99b1142b693d01e26342cf96d181690141c592d9aed03d8a97ced",
+    "created_at": "2019-06-23T18:49:41.000+08:00"
+  },
+  {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89516,
+    "in_address": "1A2uJmDWpm5s1EU35rmwHoNURPVLJFxRFk",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "373b38ab5d40be7fbbdf9d5432558a31d4b0930576dbeb768d1ecff07249ba3b",
+    "created_at": "2019-06-23T14:09:20.000+08:00"
+  },
+  {
     "type": "Publish",
     "title": "生產沃力",
     "out_address": "-",
