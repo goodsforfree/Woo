@@ -1,5 +1,19 @@
 [
   {
+    "type": "Payment",
+    "title": "換出好物： <a>姚明火箭隊球衣</a>",
+    "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "out_amount": 10,
+    "out_balance": 0,
+    "in_address": "13U7AfByVNeLEhMSVMQGrwSHeAYPtyCBFw",
+    "in_amount": 10,
+    "in_balance": 991820,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "5304814468329052d46f6a2c9157fb4ce9ccd386574b2d8205c3ff63b9d21139",
+    "created_at": "2019-07-22T16:48:23.000+08:00"
+  },
+  {
     "type": "Reward",
     "title": "註冊成功",
     "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
