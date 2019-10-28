@@ -1,5 +1,33 @@
 [
   {
+    "type": "Promote",
+    "title": "圈圈追蹤獎勵",
+    "out_address": "16rHqPiKfdMUQowqxyktUNChZDNDsUoHXY",
+    "out_amount": 10000,
+    "out_balance": 82715,
+    "in_address": "1tr1rRGbStFYPeai35yYiBn99KPqUH39a",
+    "in_amount": 10000,
+    "in_balance": 10000,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "4b9885145d58732c2529047680493bd6eb3d29233a4b87145a855d66c826f1df",
+    "created_at": "2019-10-27T12:54:11.000+08:00"
+  },
+  {
+    "type": "Prepay",
+    "title": "換入好物：<a>復古檯燈</a>",
+    "out_address": "1tr1rRGbStFYPeai35yYiBn99KPqUH39a",
+    "out_amount": 800,
+    "out_balance": 200,
+    "in_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
+    "in_amount": 800,
+    "in_balance": 800,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "30125204168a12f46c1ec956a27ce4a4ef8523d4c8d43e5d6d2a9fbd0ac1f338",
+    "created_at": "2019-10-27T12:53:03.000+08:00"
+  },
+  {
     "type": "Reward",
     "title": "註冊成功",
     "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
