@@ -1,5 +1,19 @@
 [
   {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89111,
+    "in_address": "19zEsmETo9SXLY5P6d7VfBkPcf66ePfxgD",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "ac95c19952fa2b1b882a50d31803570569c279ae062d6afce29b244de6e6ff49",
+    "created_at": "2019-11-07T10:28:41.000+08:00"
+  },
+  {
     "type": "Payment",
     "title": "換出好物： <a>復古檯燈</a>",
     "out_address": "1L9TRyzYuhnwAEwrB1uoy9fHdire5RABJn",
