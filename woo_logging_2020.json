@@ -1,5 +1,33 @@
 [
   {
+    "type": "Promote",
+    "title": "圈圈追蹤獎勵",
+    "out_address": "13U7AfByVNeLEhMSVMQGrwSHeAYPtyCBFw",
+    "out_amount": 1000,
+    "out_balance": 985920,
+    "in_address": "1P2d9SJK8H6tDXbjSjxzQEDiY62DsPnT8V",
+    "in_amount": 1000,
+    "in_balance": 1000,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "a382d6c65fb5f0f35284edcf6f1917cc51e1cf2aa5825785ec74c5d009d3ecee",
+    "created_at": "2020-01-15T23:39:39.000+08:00"
+  },
+  {
+    "type": "Reward",
+    "title": "註冊成功",
+    "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
+    "out_amount": 1,
+    "out_balance": 89087,
+    "in_address": "1P2d9SJK8H6tDXbjSjxzQEDiY62DsPnT8V",
+    "in_amount": 1,
+    "in_balance": 1,
+    "fee_amount": 0,
+    "fee_address": "-",
+    "hash_key": "82a310712f8b3790319199132586889a414a0c2b8beb26e90edc7531c6123919",
+    "created_at": "2020-01-15T23:34:22.000+08:00"
+  },
+  {
     "type": "Reward",
     "title": "註冊成功",
     "out_address": "1LoZLH5Je1GKAcHkEPi8M47EcuMyP497Ww",
